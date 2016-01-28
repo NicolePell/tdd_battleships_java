@@ -21,16 +21,12 @@ This game was designed with the SOLID principles of Object-Oriented Design in mi
   <tr>
     <td><b>Responsibilities</b></td>
     <td>
-      Know what it contains - either 'water' or a Ship object
+      Know if it has a ship on it or if it is empty
       <br>Know if it has been fired at
     </td>
   </tr>
   <tr>
     <td><b>Dependencies</b></td>
-    <td>None</td>
-  </tr>
-  <tr>
-    <td><b>Subclasses</b></td>
     <td>None</td>
   </tr>
 </table>
